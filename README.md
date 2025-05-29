@@ -12,7 +12,7 @@
 
 ## About
 
-A fork of [MrGriefs FiveM Axon Body 3 OBS](https://github.com/TFNRP/axonbody3-obs) made to work look like an Axoon Fleet 3 system.  
+A fork of [MrGriefs FiveM Axon Body 3 OBS](https://github.com/TFNRP/axonbody3-obs) made to work look like an Axon Fleet 3 system.  
 [Axon Fleet 3 OBS](https://github.com/realendie/axonbody3-obs/tree/Axon-Fleet-3) is out of the box and requires no dependencies.
 
 ## Installation
